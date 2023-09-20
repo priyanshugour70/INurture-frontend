@@ -22,7 +22,13 @@ Start the development server with the following command:
 
 For the backend, use Python and Flask. Follow these steps:
 
+
 1. **Create a Virtual Environment**
+
+Create a virtual environment for your Flask project (optional but recommended):
+
+``` python -m venv venv ```
+
 
 Activate the virtual environment using the command:
 
