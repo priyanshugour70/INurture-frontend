@@ -604,7 +604,7 @@ const Sidebar = ({ sidebarOpen, setSidebarOpen }: SidebarProps) => {
                               className={`group relative flex items-center gap-2.5 rounded-md px-4 font-medium text-bodydark2 duration-300 ease-in-out hover:text-white ${pathname === "#" && "text-white"
                                 }`}
                             >
-                              Add Student
+                              Add Users
                             </Link>
                           </li>
                           <li>
@@ -613,7 +613,7 @@ const Sidebar = ({ sidebarOpen, setSidebarOpen }: SidebarProps) => {
                               className={`group relative flex items-center gap-2.5 rounded-md px-4 font-medium text-bodydark2 duration-300 ease-in-out hover:text-white ${pathname === "#" && "text-white"
                                 }`}
                             >
-                              Add Staff
+                              View Users
                             </Link>
                           </li>
                         </ul>

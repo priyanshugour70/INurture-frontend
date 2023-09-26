@@ -1,4 +1,5 @@
 import { Metadata } from "next";
+import Link from "next/link";
 
 export const metadata: Metadata = {
   title: "SpreadSheet | Dashboard of INurture",
@@ -8,8 +9,8 @@ export const metadata: Metadata = {
 
 export default function Home() {
   return (
-    <>
+    <main className="text-center">
       Hello, This is Priyanshu Gour..!
-    </>
+    </main>
   );
 }
