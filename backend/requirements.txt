@@ -1,2 +1,4 @@
 Flask
 pymysql
+jsonify
+flask-cors
